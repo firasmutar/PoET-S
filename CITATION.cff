@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PoET²S: Discrete-event simulator for twin-trust-weighted consensus"
+abstract: >-
+  Reference implementation of the PoET²S consensus protocol and seven
+  baseline mechanisms (PoW, PoS, PBFT, DPoS, PoS+Twin, PBFT+Twin,
+  DPoS+Twin) evaluated on a smart-grid testbed calibrated to public
+  energy datasets.
+authors:
+  - family-names: "[Author Family Name]"
+    given-names: "[Author Given Name]"
+version: "0.1.0"
+date-released: "2025-01-01"
+license: MIT
+repository-code: "https://github.com/REPLACE-ME/poet2s-sim"
+keywords:
+  - blockchain
+  - consensus
+  - digital twin
+  - smart grid
+  - peer-to-peer energy trading
+  - discrete-event simulation
+preferred-citation:
+  type: article
+  title: >-
+    PoET²S: A Twin-Trust-Weighted Committee Consensus for Peer-to-Peer
+    Energy Trading — Discrete-Event Evaluation Against Seven Baseline
+    Protocols at N=500
+  authors:
+    - family-names: "[Author Family Name]"
+      given-names: "[Author Given Name]"
+  year: 2025
